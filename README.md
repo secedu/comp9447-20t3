@@ -71,7 +71,10 @@ For the 20T3 iteration of this course, we have made the following student-facing
 - 25% Final Presentation, marked as a group
 - 25% Individual Self Reflection, marked individually
 
-These artefacts are all due at the end of the term. Specific due dates and relevant marking criteria will be released by the end of Week 2.
+These artefacts are all due at the end of the term. Specific due dates will be released at the end of Week 2.
+
+Marking Criteria (changes will be made to it throughout the term): 
+https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/EXUgsgjgAnlGuWElgxbJQDoBhLOg4Ec7yECWe0u6gMyVPQ?e=bBvmCV
 
 ## Artefacts/Deliverables
 Please consult the marking criteria for each artefact/deliverable for more information.
