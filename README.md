@@ -68,7 +68,7 @@ For the 20T3 iteration of this course, we have made the following student-facing
 ## Assessment
 - 25% Final Product, marked as a group
 - 25% Group Report, marked as a group
-- 25% Final Presentation, marked individually
+- 25% Final Presentation, marked as a group
 - 25% Individual Self Reflection, marked individually
 
 These artefacts are all due at the end of the term. Specific due dates and relevant marking criteria will be released by the end of Week 2.
@@ -86,7 +86,7 @@ Includes:
 A written business-case style report contributed to by all members of the team that documents their experience through this course and the project that they have been working on. This should include a evaluation of the project as a group, the challenges/breakthroughs you faced, what you liked/disliked about the whole experience, etc.
 
 ### Final Presentation
-A presentation (slide deck) presented at AWS at the end of the project detailing the functionality of the final product and the value it presents to solving an issue faced by AWS customers and partners.
+A presentation (slide deck) presented at AWS at the end of the project detailing the functionality of the demo product and SOAR implementations, and the value it presents to solving an issue faced by AWS customers and partners.
 
 ### Self Reflection
 At the end of the term students are expected to perform a self reflection on their progress and work output. Part of this self reflection should include a journal that students keep updated throughout the term as a record of their individual progress and learnings for this course.
