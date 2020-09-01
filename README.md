@@ -1,6 +1,16 @@
 # Course Announcements (Changelog)
 [31/8/2020]: Course Outline released
 
+# FAQ
+Q: Are groups predetermined by staff or made during the course?\
+A: Your teams will be predetermined, and you will meet your teammates during the project kick off in Week 1
+
+Q: Is there any face to face communication?\
+A: see [Teaching Strategies](#Teaching-Strategies)
+
+Q: When are the labs/tutorials?\
+A: Timetabling for your weekly seminar will be arranged in Week 1 as you meet your team, mentor and tutor for the first time, and find a common time to meet for successive weeks.
+
 
 # COMP9447 Course Outline: Security Engineering Workshop with AWS
 ## Details:
@@ -11,7 +21,9 @@
 * Course Admin: [Christopher Shi](mailto:christopher.shi@unsw.edu.au) [Shantanu Kulkarni](mailto:shantanu.kulkarni@student.unsw.edu.au)
 * Contact: cs9447@cse.unsw.edu.au
 * Units of Credit: 6
-* Handbook Entry: https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9447/
+* Handbook Entry: 
+	* https://www.handbook.unsw.edu.au/postgraduate/courses/2020/COMP9447/
+	* https://www.handbook.unsw.edu.au/undergraduate/courses/2020/COMP9447/
 
 ## Course Summary
 COMP9447 Security Engineering Workshop is an applied course on security engineering. Students will learn cloud and distributed computing techniques using AWS and utilise them to build a product and associated SOAR (Security Orchestration, Automation and Response) tooling and technologies.
@@ -36,7 +48,7 @@ After completing this course, students should be able to have:
 * The ability to work through practical real world cloud challenges
 
 ## Teaching Strategies
-Due to COVID-19, we have made some adjustments to the delivery of this course as per [university guidelines](https://www.covid-19.unsw.edu.au/information-students). This course is fully equipped to be delivered 100% online, however it's probable that there will be some face to face components (more information soon), restrictions permitting.
+Due to COVID-19, we have made some adjustments to the delivery of this course as per [university guidelines](https://www.covid-19.unsw.edu.au/information-students). This course is fully equipped to be delivered 100% online, however it's probable that there will be some face to face components (more information soon), restrictions permitting. We will let you know more details as we know them.
 
 This course will involve an indicative per week:
 * 1 x 90 minute - hands on seminar with AWS Mentors and UNSW Tutors (recorded)
@@ -95,10 +107,27 @@ A presentation (slide deck) presented at AWS at the end of the project detailing
 At the end of the term students are expected to perform a self reflection on their progress and work output. Part of this self reflection should include a journal that students keep updated throughout the term as a record of their individual progress and learnings for this course.
 
 ## Course Schedule
-TBD
+| Week | Activities | Notes |
+|-------|------|-------|
+| 1 | Virtual Kickoff | Here you will meet your team for the first time and be introduced to the course |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 | 
+| 11 | 
 
 ## Resources for Students
-TBD
+* https://aws.amazon.com/blogs/aws/ 
+* https://aws.amazon.com/architecture/ 
+* https://aws.amazon.com/solutions/ 
+* https://aws.amazon.com/well-architected-tool/ 
+* https://aws.amazon.com/whitepapers/ 
+* https://github.com/aws-samples 
 
 ## Course Evaluation and Development
 Any points of feedback for the course can be emailed directly to cs9447@cse.unsw.edu.au. At the end of the course, you will be asked to complete the [myExperience survey](https://student.unsw.edu.au/myexperience), which provides the university with a key source of student evaluative feedback.
