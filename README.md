@@ -11,6 +11,15 @@ A: see [Teaching Strategies](#Teaching-Strategies)
 Q: When are the labs/tutorials?\
 A: Timetabling for your weekly seminar will be arranged in Week 1 as you meet your team, mentor and tutor for the first time, and find a common time to meet for successive weeks.
 
+Q: Where is the marking criteria?\
+A: see [Assessment](#Assessment)
+
+Q: When are the due dates?\
+A: see [Course Schedule](#Course-Schedule)
+
+Q: Where can I find the self-paced labs?\
+A: see [Resources](#Resources-For-Students)
+
 
 # COMP9447 Course Outline: Security Engineering Workshop with AWS
 ## Details:
@@ -85,8 +94,8 @@ For the 20T3 iteration of this course, we have made the following student-facing
 
 These artefacts are all due at the end of the term. Specific due dates will be released at the end of Week 2.
 
-Marking Criteria (changes will be made to it throughout the term): 
-https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/EXUgsgjgAnlGuWElgxbJQDoBhLOg4Ec7yECWe0u6gMyVPQ?e=bBvmCV
+The [Marking Criteria](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/EXUgsgjgAnlGuWElgxbJQDoBhLOg4Ec7yECWe0u6gMyVPQ?e=bBvmCV) contains more specific information as to what is expected for each deliverable. Changes will be made to it throughout the term.
+
 
 ## Artefacts/Deliverables
 Please consult the marking criteria for each artefact/deliverable for more information.
@@ -97,7 +106,7 @@ Includes:
 - Supporting documentation
 - Any other supporting material (that is required for the final product to be classified as minimum viable product (MVP))
 
-Due: Thursday 26th November 11:59PM, repo link and supporting documents emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
+Due: Thursday 26th November 11:59PM, repo link and supporting material emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
 
 ### Group Report
 A written business-case style report contributed to by all members of the team that documents their experience through this course and the project that they have been working on. This should include a evaluation of the project as a group, the challenges/breakthroughs you faced, what you liked/disliked about the whole experience, etc.
