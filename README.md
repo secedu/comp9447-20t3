@@ -29,7 +29,7 @@ A: Timetabling for your weekly seminar will be arranged in Week 1 as you meet yo
 COMP9447 Security Engineering Workshop is an applied course on security engineering. Students will learn cloud and distributed computing techniques using AWS and utilise them to build a product and associated SOAR (Security Orchestration, Automation and Response) tooling and technologies.
 
 ## About SOAR
-TBD
+SOAR refers to technologies that enable organizations to collect inputs monitored by the security operations team. For example, alerts from the SIEM system and other security technologies — where incident analysis and triage can be performed by leveraging a combination of human and machine power — help define, prioritize and drive standardized incident response activities. SOAR tools allow an organization to define incident analysis and response procedures in a digital workflow format. [Gartner](https://www.gartner.com/en/information-technology/glossary/security-orchestration-automation-response-soar)
 
 ## Assumed Knowledge
 * Security
@@ -97,14 +97,22 @@ Includes:
 - Supporting documentation
 - Any other supporting material (that is required for the final product to be classified as minimum viable product (MVP))
 
+Due: Thursday 26th November 11:59PM, repo link and supporting documents emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
+
 ### Group Report
 A written business-case style report contributed to by all members of the team that documents their experience through this course and the project that they have been working on. This should include a evaluation of the project as a group, the challenges/breakthroughs you faced, what you liked/disliked about the whole experience, etc.
 
+Due: Thursday 26th November 11:59PM, report emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
+
 ### Final Presentation
 A presentation (slide deck) presented at AWS at the end of the project detailing the functionality of the demo product and SOAR implementations, and the value it presents to solving an issue faced by AWS customers and partners.
+ 
+Due: Thursday 19th November time TBD, presentation either via Zoom or in person.
 
 ### Self Reflection
 At the end of the term students are expected to perform a self reflection on their progress and work output. Part of this self reflection should include a journal that students keep updated throughout the term as a record of their individual progress and learnings for this course.
+
+Due: Sunday 29th November 11:59PM, reports emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
 
 ## Course Schedule
 | Week | Activities | Notes |
@@ -114,14 +122,20 @@ At the end of the term students are expected to perform a self reflection on the
 | 3 |
 | 4 |
 | 5 |
-| 6 |
+| 6 | Flex Week |
 | 7 |
 | 8 |
 | 9 |
-| 10 | 
-| 11 | 
+| 10 | Final Presentation | Thursday 19th November, Time TBD
+| Study Period | Group Report and Final Product Due | Thursday 26th November 11:59PM |
+|  | Self Reflection Due | Sunday 29th November 11:59PM |
+
 
 ## Resources for Students
+Self Paced labs: 
+* https://aws.amazon.com/training/self-paced-labs/
+
+Other:
 * https://aws.amazon.com/blogs/aws/ 
 * https://aws.amazon.com/architecture/ 
 * https://aws.amazon.com/solutions/ 
