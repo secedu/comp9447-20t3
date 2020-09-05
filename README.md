@@ -1,7 +1,7 @@
 # Course Announcements (Changelog)
 [31/8/2020]: Course Outline released
 
-[6/8/2020]: [Week 1](week0/README.md) released
+[6/8/2020]: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0) released
 
 # FAQ
 Q: Are groups predetermined by staff or made during the course?\
