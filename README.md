@@ -1,6 +1,8 @@
 # Course Announcements (Changelog)
 [31/8/2020]: Course Outline released
 
+[6/8/2020]: [Week 1](week0/README.md) released
+
 # FAQ
 Q: Are groups predetermined by staff or made during the course?\
 A: Your teams will be predetermined, and you will meet your teammates during the project kick off in Week 1
