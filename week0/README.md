@@ -2,9 +2,11 @@
 
 We want to maximise the amount of time you get to spend on your project so we're starting this week early with some material and labs you can do in your own time to familiarise yourself with AWS and their offerings.
 
-## Misc todo
-* Make sure you're enrolled in the course via myUNSW
-
+## Todo
+* Make sure you're enrolled in the course via myUNSW. Everyone should be whitelisted and able to enrol now. If you come across problems please email me.
+* Please fill in the [Week 0 Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o25_8BR_GoBAqZkK4mZy6fNUN1BKR0xCTVhST0E2NkxDTllQR0o5QzdDWS4u). This will help us in assigning you to a team, and give you access to the Discord server where we will be running this course.
+* If you haven't already, please familiarise yourself with the course outline, [here](https://github.com/secedu/comp9447-20t3)
+* Go through the learning material and labs below.
 
 ## Learning Material
 * Introduction to AWS:
