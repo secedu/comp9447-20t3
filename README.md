@@ -69,11 +69,13 @@ Attendance is not compulsory, however we highly encourage you to attend as you w
 If you cannot attend a seminar or would like to organise a F2F meet, please email the admins.
 
 ## Communication Channels:
-Discord: will be the preferred method of communication between students and staff this term. Link: <TBD>
+This course will be run almost entirely using Discord, Github. (We won't be using webcms or moodle - so please don't hesitate to ask if you can't find something or something doesn't look right)
+
+Discord: will be the preferred method of communication between students and staff this term. Invites will be sent when you have filled in this form:
 
 Github: will be the preferred method of resource distribution to students. Reading material, references, marking criteria, files, etc. will be uploaded to this repo in respective folders.
 
-this README.md: will be the preferred method of course announcements, including weekly updates, due dates, lecture recordings, etc.
+this README.md: will contain course announcements, updates and the course outline
 
 ## Teaching Rationale and Improvements
 This course (COMP9447) is designed to give students an opportunity to apply their knowledge and theory to real world applications of security engineering. Therefore, engaging external expertise is a primary part of this course. Partnering with AWS enables students to get mentorship and support as they work on a practical project and learn skills related to this highly evolving industry.
