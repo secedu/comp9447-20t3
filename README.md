@@ -39,8 +39,12 @@ A: see [Resources](#Resources-For-Students)
 ## Course Summary
 COMP9447 Security Engineering Workshop is an applied course on security engineering. Students will learn cloud and distributed computing techniques using AWS and utilise them to build a product and associated SOAR (Security Orchestration, Automation and Response) tooling and technologies.
 
-## About SOAR
 SOAR refers to technologies that enable organizations to collect inputs monitored by the security operations team. For example, alerts from the SIEM system and other security technologies — where incident analysis and triage can be performed by leveraging a combination of human and machine power — help define, prioritize and drive standardized incident response activities. SOAR tools allow an organization to define incident analysis and response procedures in a digital workflow format. [Gartner](https://www.gartner.com/en/information-technology/glossary/security-orchestration-automation-response-soar)
+
+The students will be provided with a reference deployment for an application that will be used to demonstrate their SOAR solution's security capabilities. 
+Teams 1 and 2: Magento
+https://aws.amazon.com/quickstart/architecture/magento/
+Teams 3 and 4: Drupal
 
 ## Assumed Knowledge
 * Security
