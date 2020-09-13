@@ -1,7 +1,9 @@
 # Course Announcements (Changelog)
 [31/8/2020]: Course Outline released
 
-[6/8/2020]: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0) released
+[6/9/2020]: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0) released
+
+[13/9/2020]: [Week 1](https://github.com/secedu/comp9447-20t3/tree/master/week1) released
 
 # FAQ
 Q: Are groups predetermined by staff or made during the course?\
@@ -14,13 +16,16 @@ Q: When are the labs/tutorials?\
 A: Timetabling for your weekly seminar will be arranged in Week 1 as you meet your team, mentor and tutor for the first time, and find a common time to meet for successive weeks.
 
 Q: Where is the marking criteria?\
-A: see [Assessment](#Assessment)
+A: [Here](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/EXUgsgjgAnlGuWElgxbJQDoBhLOg4Ec7yECWe0u6gMyVPQ?e=bBvmCV)
+
+Q: Where is the project overview?\
+A: [Here](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/ETGvukva94JGhc6UiAinDFYB1X1awFZArsnIBTDT7iEmMw?e=ld1xMA)
 
 Q: When are the due dates?\
 A: see [Course Schedule](#Course-Schedule)
 
 Q: Where can I find the self-paced labs?\
-A: see [Resources](#Resources-For-Students)
+A: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0)
 
 
 # COMP9447 Course Outline: Security Engineering Workshop with AWS
