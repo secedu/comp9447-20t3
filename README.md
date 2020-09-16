@@ -7,7 +7,7 @@
 
 # FAQ
 Q: Where can I find lecture recordings?\
-A: [Here](#Lecture-Recordings)
+A: [Here](#Lecture-Recordings) or the #Announcements channel in the Discord server.
 
 Q: Where can I find the self-paced labs?\
 A: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0)
