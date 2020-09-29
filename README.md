@@ -5,29 +5,43 @@
 
 [13/9/2020]: [Week 1](https://github.com/secedu/comp9447-20t3/tree/master/week1) released
 
+[20/9/2020]: [Week 2](https://github.com/secedu/comp9447-20t3/tree/master/week2) released
+
+[28/9/2020]: [Week 3](https://github.com/secedu/comp9447-20t3/tree/master/week3) released
+
 # FAQ
-Q: Where can I find lecture recordings?\
+**Q: The course outline / project scope is so vague**\
+A: We understand that this is a concern shared among many students, and are working on providing you with more supplemental information on the project and compiling a resource hub for this project. This will include more information on what building a SOAR looks like and other links to videos and articles that you may find helpful.
+
+**Q: How to handle AWS costs?**\
+A: Use tools like [cloudwatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html) to get alerts on when your monthly bill exceeds a certain amount. Setup alarms for approx $60-70 to give you and your tutor time to address.
+
+If you need codes, ask a tutor/mentor and you shall receive (within reasonable quantity)
+
+If you go to billing dashboard on your console you can see what services you have spinned up (and in what regions). Our advice is to limit all your services into one region if you can. So that when the time comes to shut everything down you can do so without worrying about different services running in different regions + forgetting something in another region.
+
+**Q: Where can I find lecture recordings?**\
 A: [Here](#Lecture-Recordings) or the #Announcements channel in the Discord server.
 
-Q: Where can I find the self-paced labs?\
+**Q: Where can I find the self-paced labs?**\
 A: [Week 0](https://github.com/secedu/comp9447-20t3/tree/master/week0)
 
-Q: When are the due dates?\
+**Q: When are the due dates?**\
 A: see [Course Schedule](#Course-Schedule)
 
-Q: Where is the marking criteria?\
+**Q: Where is the marking criteria?**\
 A: [Here](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/EXUgsgjgAnlGuWElgxbJQDoBhLOg4Ec7yECWe0u6gMyVPQ?e=bBvmCV)
 
-Q: Where is the project overview?\
+**Q: Where is the project overview?**\
 A: [Here](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_ad_unsw_edu_au/ETGvukva94JGhc6UiAinDFYB1X1awFZArsnIBTDT7iEmMw?e=ld1xMA)
 
-Q: Are groups predetermined by staff or made during the course?\
+**Q: Are groups predetermined by staff or made during the course?**\
 A: Your teams will be predetermined, and you will meet your teammates during the project kick off in Week 1
 
-Q: Is there any face to face communication?\
+**Q: Is there any face to face communication?**\
 A: see [Teaching Strategies](#Teaching-Strategies)
 
-Q: When are the labs/tutorials?\
+**Q: When are the labs/tutorials?**\
 A: Timetabling for your weekly seminar will be arranged in Week 1 as you meet your team, mentor and tutor for the first time, and find a common time to meet for successive weeks.
 
 # Lecture Recordings
@@ -54,11 +68,8 @@ SOAR refers to technologies that enable organizations to collect inputs monitore
 
 The students will be provided with a reference deployment for an application that will be used to demonstrate their SOAR solution's security capabilities.
 
-Teams 1 and 2: Magento\
-https://aws.amazon.com/quickstart/architecture/magento/
-
-Teams 3 and 4: Drupal\
-https://aws.amazon.com/quickstart/architecture/drupal/
+All teams:
+https://github.com/aws-samples/aws-modern-application-workshop
 
 ## Assumed Knowledge
 * Security
@@ -89,9 +100,16 @@ If you cannot attend a seminar or would like to organise a F2F meet, please emai
 ## Communication Channels:
 This course will be run almost entirely using Discord, Github. (We won't be using webcms or moodle - so please don't hesitate to ask if you can't find something or something doesn't look right)
 
-Discord: will be the preferred method of communication between students and staff this term. Invites will be sent when you have filled in this form:
+Discord: will be the preferred method of communication between students and staff this term.
 
 Github: will be the preferred method of resource distribution to students. Reading material, references, marking criteria, files, etc. will be uploaded to this repo in respective folders.
+
+Zoom links:
+* Common: https://unsw.zoom.us/j/95199340741
+* Team 1: https://unsw.zoom.us/j/95135935963
+* Team 2: https://unsw.zoom.us/j/95258941934
+* Team 3: https://unsw.zoom.us/j/99300763349
+* Team 4: https://unsw.zoom.us/j/91558714871
 
 this README.md: will contain course announcements, updates and the course outline
 
@@ -138,7 +156,7 @@ Due: Thursday 26th November 11:59PM, report emailed to [cs9447@cse.unsw.edu.au](
 ### Final Presentation
 A presentation (slide deck) presented at AWS at the end of the project detailing the functionality of the demo product and SOAR implementations, and the value it presents to solving an issue faced by AWS customers and partners.
  
-Due: Thursday 19th November time TBD, presentation either via Zoom or in person.
+Due: Thursday 19th November 1-3PM, presentation either via Zoom or in person.
 
 ### Self Reflection
 At the end of the term students are expected to perform a self reflection on their progress and work output. Part of this self reflection should include a journal that students keep updated throughout the term as a record of their individual progress and learnings for this course.
@@ -146,18 +164,19 @@ At the end of the term students are expected to perform a self reflection on the
 Due: Sunday 29th November 11:59PM, reports emailed to [cs9447@cse.unsw.edu.au](cs9447@cse.unsw.edu.au)
 
 ## Course Schedule
-| Week | Activities | Notes |
+| Week | Events | Activities |
 |-------|------|-------|
-| 1 | Virtual Kickoff | Here you will meet your team for the first time and be introduced to the course |
-| 2 |
-| 3 |
-| 4 |
-| 5 |
-| 6 | Flex Week |
-| 7 |
-| 8 |
-| 9 |
-| 10 | Final Presentation | Thursday 19th November, Time TBD
+| 0 |
+| 1 | Virtual Kickoff | Here you will meet your team for the first time and be introduced to the course<br>  Discuss project scope and setup accounts and deploy demo App<br> Students setup access for students to access AWS accounts<br> Students setup Git repo<br> Students setup billing alerts for early notification of $70 spend<br> Students review marking criteria<br> Students capture self-contribution log|
+| 2 | | Students complete high level plan for project timelines<br>Students complete project use cases<br>Students setup and log use cases in Git for task assignment<br>Students complete threat model<br>Students review Well-Architected Framework and complete early review of their solution to identify gaps<br>Students Capture self-contribution log
+| 3 | |Students refine metrics for each use case and discuss collection patterns, logging, alarms, notifications, dashboards<br>Students review CI/CD and how to incorporate into project<br>Students start to build out use cases and scenarios on platform to validate their thinking<br>Students Capture self-contribution log
+| 4 | |Students build, test, validate, iterate (look for automation oppertunities)<br>Students capture self-contribution log
+| 5 | | Students build, test, validate, iterate, evolve<br>Students capture self-contribution log<br>Mid-project checkin (team to discuss current solution and areas for closure leading up to presentation)
+| 6 | Flex Week | Students build, test, validate, iterate, evolve<br>Students capture self-contribution log
+| 7 | | Students build, test, validate, iterate<br>Students capture self-contribution log
+| 8 | | Students start working on story board and building presentation material<br>Students draft readme docs for github repo and validate usability<br>Students complete Well-Architected review and incorporate results into preso and areas for improvement<br>Students capture self-contribution log
+| 9 | | Students draft preso to AWS mentor and Tutor<br>Students capture self-contribution log<br>Students Draft group report
+| 10 | Final Presentation | Thursday 19th November, 1-3PM, Common Zoom<br>
 | Study Period | Group Report and Final Product Due | Thursday 26th November 11:59PM |
 |  | Self Reflection Due | Sunday 29th November 11:59PM |
 
