@@ -24,14 +24,14 @@ Has been updated [here](https://unsw-my.sharepoint.com/:w:/g/personal/z3530721_a
 | Mentor: Pierre Liddle / Dean Lawrence | Mentor: Rajiv Rajah | Mentor: Nicolas Seilaz| Mentor: Paul Hawkins|
 | Tutor: Daniel Latimer | Tutor: Chen Zhou| Tutor: Tim Thacker | Tutor: Chong Yew Chang|
 |Courtney Darville| Longcheng Zhao | Elaine Mach | Nathan Driscoll |
-|Lance Young| Yushin Kang | Olga Popovic | Justin Ty
-|Harshil Shah| Brendan Nyholm | Roger Tong | Sarah Ailin Liu |
+|Lance Young| Yushin Kang || Justin Ty
+|Harshil Shah| Brendan Nyholm || Sarah Ailin Liu |
 |Matthew Immanuel| John Chen | Luyuan He | Yunsar Jilliani
 |Yuqing Min| David Stiasny | Chirag Panikkasseril Unni | Keung Lee
-|Cavell Rae| Kovid Sharma | Usama Sadiq | Elton Wong
+|| Kovid Sharma | Usama Sadiq | Elton Wong
 |Saloni Goda| Liam Eastwood | Shiyuan Liang | Evangeline Endacott
-|Jack Gifford| Michael Theos | Jocelyn Hing | William Yin
-|Andrew Chung | Hao Zhong | Kristian Nolev | Dallas Yan
+|Jack Gifford| Michael Theos || William Yin
+|Andrew Chung | Hao Zhong || Dallas Yan
 |Bailey Ivancic| Xiao Han |
 
 If there are any discrepancies, please let us know.
